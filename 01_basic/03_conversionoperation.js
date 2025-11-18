@@ -16,3 +16,4 @@ console.log(booleanIsLoggedIn)
 // true => 1 , false => 0 
 //"" => false 
 //"hitsh" => true
+
